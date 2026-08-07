@@ -1,0 +1,8 @@
+*.ico binary
+go.sum linguist-generated
+*.htm linguist-vendored
+Cargo.lock linguist-generated
+
+src/*.ts linguist-detectable 
+
+# eof 0e04b448
