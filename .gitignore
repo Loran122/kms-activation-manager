@@ -1,0 +1,9 @@
+dist/
+build/
+.env
+*.tgz
+coverage/
+yarn-error.log*
+.next/
+node_modules/
+.cache/
